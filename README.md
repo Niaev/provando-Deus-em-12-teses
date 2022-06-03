@@ -51,6 +51,10 @@ Em meio a tudo isso, há o próprio Ser enquanto tal, que é absolutamente neces
 
 # Tese 3: A existência não se identifica com os seres contingentes.
 
+O que é “existir”? Quando dizemos que algo existe, dizemos que esse algo é em certo aspecto, como a estátua de mármore que existe dentro de um museu, pois ela está no museu – ela possui o ser nesse aspecto. Agora, um unicórnio não existe no aspecto de estar no mundo, ele é em outro aspecto, no aspecto de ser possível ou imaginável. Ou seja, poderíamos dizer que o unicórnio não existe no mundo, mas que existe enquanto um ser imaginário. Um ser que não existe, seria o ser que não é de nenhum modo, como um quadrado de três lados, que não é concebível nem no mundo e nem em nossa imaginação, portanto, ele não é, não existe.
+
+Porém, existir não é uma propriedade, existir é uma condição para que as propriedades se deem nos objetos (como Kant explica em sua crítica ao argumento ontológico*). Ora, quando dizemos que X existe no mundo, dizemos que as propriedades de X são instanciadas em X. Ou seja, a existência é uma condição para que a predicação ocorra, não participando dela. Nesse caso, nenhum ser contingente existe por si mesmo, pois a existência não pode ser uma propriedade contida nos objetos; nenhum objeto existe por si mesmo.
+
 # Tese 4: No Ser enquanto tal, a existência e as propriedades se identificam
 
 ## Deus é o Ser
