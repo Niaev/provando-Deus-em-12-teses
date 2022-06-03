@@ -93,6 +93,16 @@ Claro, tal analogia possui suas limitações, isso pois o conjunto dos naturais 
 
 # Tese 8: O Ser é Sumamente Bom. (A bondade infinita do Ser)
 
+O que é o bem? O bem é aquilo ao qual todas as coisas tendem; a finalidade de tudo. Você diz que uma caneta é boa na medida em que ela escreve sem falhar, isso pois ela está cumprindo seu objetivo; o objetivo do arqueiro é acertar o alvo, então o arqueiro é bom quando cumpre tal objetivo, etc. Agora, o mal é justamente o oposto, a ausência de bem, como um assassino, que é um Homem que não cumpre seus objetivos enquanto ser social ou como agente moral.
+
+O Ser justamente não poderia ter a ausência de bondade, pois isso implicaria que ele não fosse (não-ser) em certo aspecto, o que é impossível, pois o Ser não pode carecer de nada (como demonstrado na tese 5). O Ser contém a virtualidade de toda forma de bondade, o bem da caneta, o bem do arqueiro, o bem do Homem, etc. Desse modo, o Ser possui o Bem (o bem enquanto tal), pois ele possui a determinação ontológica para que o bem dos seres contingentes se faça real. Mas, qual a natureza do bem enquanto tal? Se o Ser possui o Bem, e se o bem é toda finalidade de algo, qual a finalidade/bem do Ser?
+
+O bem é um aspecto de ser das coisas, no caso, tudo que cumpre seu objetivo, é bom (é nesse aspecto). Porém, no Ser isso não ocorre, não há uma distinção entre seu bem e ele mesmo, pois não pode haver uma distinção entre ele e seus aspectos. Isso pode parecer um pouco estranho, mas fica evidente quando analisamos que o objetivo/bem de tudo é ser: o bem da caneta é escrever, a finalidade da caneta é ser aquilo que escreve; o objetivo da caneta é ser. O bem do arqueiro é acertar o alvo, a finalidade do arqueiro é ser aquilo que atinge o alvo; o objetivo do arqueiro é ser. O bem do Homem é ser feliz, a finalidade do Homem é ser aquilo que é feliz; o objetivo do Homem é ser. E qual é o bem do Ser? Não poderia ser nada externo a ele, pois seria assumir que há uma determinidade externa a ele. Se não há nenhuma anterioridade ao Ser para determinar seu objetivo, a finalidade do Ser é simplesmente ser. O objetivo do Ser é ele mesmo, sendo ele seu próprio bem.
+
+**Comentários à Tese 8:** O Ser não somente é a finalidade dele mesmo, como também ele é a finalidade de tudo, ele é a finalidade enquanto tal, o bem em si. Os seres contingentes sempre têm como finalidade alguma determinação do Ser, como o amante que tem sua amada como finalidade, sendo a amada uma forma de ser. Em última análise, o Ser é o próprio Bem, pois o Ser é a finalidade ao qual tudo tende – o arqueiro e o amante visam o Ser, porém, enquanto um visa o ser enquanto alvo, o outro visa o ser enquanto amada; o arqueiro visa o bem enquanto alvo e o amante visa o bem enquanto amada; ambos visam o Bem, ambos visam o Ser.
+
+E quando dizemos que “o Ser tende a ele mesmo” ou “o Ser é seu próprio objetivo”, dizemos isso em sentido análogo, pois ele de fato não tende a nada, nem a objetivo algum, pois ele já está em sua plenitude. O amante se distingue da amada, o arqueiro não é seu alvo, Beethoven se diversifica de sua música. Todos tendem a seu bem, menos o Ser, pois o Ser já é seu próprio bem.
+
 # Tese 9: O Ser é incausado. (O Ser é a primeira causa e eterno)
 
 # Tese 9.1: O Ser é o princípio de toda hierarquia ontológica.
