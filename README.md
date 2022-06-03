@@ -21,6 +21,12 @@ Porém, mesmo aquilo que é necessário em relação à X, poderia ser contingen
 
 # Tese 1: O contingente sempre é por outro, e nunca por si mesmo.
 
+Supomos que haja algo que é contingente – i.e., algo que poderia ser de outra forma – e que este mesmo algo seja por si mesmo – i.e., não seja determinado por nada anterior. Algo que não possua determinação anterior alguma não poderia possuir nenhuma extensão: por exemplo, imagine um X que é Y, Z e W; X não poderia ser algo que não possua nenhuma determinação anterior, pois já está explícito que X só é o que é porque está sendo determinado por Y, Z e W. Podemos concluir, então, que se X é por si mesmo, é necessário que X não possua nenhuma extensão, X simplesmente é. Mas o que ele é? Nada? X não pode ser nada que não seja ele mesmo, e ele também não poderia ser o próprio nada (ou o não-ser). O nada absoluto de nenhum modo poderia ser, nem sequer ele mesmo, pois o nada simplesmente não é. Por esse motivo, dizer que X é o nada (e vice-versa) é algo contraditório, pois de nenhum modo o nada poderia ser.
+
+Se X não pode ser o nada, então X só poderia ser, i.e., só poderia ser o próprio Ser (com letra maiúscula, o Ser enquanto tal). Então, o que X é? X simplesmente é, X é o próprio Ser. Contudo, é aí que mora o perigo, pois se X é o próprio Ser, então X não é contingente, e sim absolutamente necessário, pois o Ser de nenhum modo poderia ser diferente. Ora, só pelo fato de ser dito que o Ser pode ser diferente já há uma contradição, pois essa minha afirmação já está dizendo que o seré no momento que ele deixou de ser. Não poderíamos dizer que poderia haver o não-ser (o nada) ao invés do ser, pois o não-ser justamente não é, não há e não poderia ser de nenhum modo. Ou seja, é sempre necessário que o ser sempre seja, e é por si mesmo, pois não possui extensões.
+
+Portanto, podemos concluir a impossibilidade de algo ser contingente e, ao mesmo tempo, destituído de partes (ser por si). Se algo se diz contingente, aquele algo possui partes.
+
 # Tese 2: O absolutamente necessário sempre é por si, e nunca por outro.
 
 ## Comentários à tese 1 e 2:
