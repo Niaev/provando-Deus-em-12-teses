@@ -77,6 +77,8 @@ De imediato, poderíamos pensar que o Ser é indeterminado, ou seja, carece de q
 
 # Tese 6: O Ser pode originar tudo. (A onipotência do Ser)
 
+Poderia me prolongar aqui, mas imagino que o que foi demonstrado na tese 5 já seja o suficiente para provar que o Ser pode originar tudo. Tudo o que existe só existe pelo Ser, tudo o que poderia ser, só é possível pelo Ser (uma quarta dimensão, uma nova cor, tudo isso é possível no escopo do Ser, pois nada disso é impossível em seu escopo).
+
 # Tese 7: O Ser existe em tudo e em todo lugar. (A onipresença do Ser)
 
 # Tese 8: O Ser é Sumamente Bom. (A bondade infinita do Ser)
