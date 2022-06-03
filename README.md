@@ -57,7 +57,15 @@ Porém, existir não é uma propriedade, existir é uma condição para que as p
 
 # Tese 4: No Ser enquanto tal, a existência e as propriedades se identificam
 
+Existir não é uma propriedade dada, e sim uma condição para que qualquer propriedade seja dada. Porém, isso não ocorre no Ser necessário, pois ele é por si mesmo. O Ser possui uma única propriedade, que é a propriedade de ser ele mesmo (como demonstramos na tese 2), não possuindo nenhuma anterioridade ou extensão, portanto, ele existe por definição, por necessidade de ser, não sendo por outro.
+
+É importante ressaltar que a existência do Ser necessário toma outro sentido do que a existência dos seres contingentes. Enquanto nos seres contingentes a existência é tomada como ser por outro ou provir de outro – como a estátua de mármore que existe por estar no museu e por provir do escultor que a fez ou como o unicórnio que está na imaginação humana e que provém dela –, a existência do Ser necessário não é tomada dessa forma, pois ele não provém/não é por nada mais que não seja ele mesmo. Existir é justamente ser em certo aspecto, e se o Ser necessário é por si mesmo, então ele existe por si mesmo, não havendo uma diversidade entre sua existência e sua propriedade de ser.
+
 ## Deus é o Ser
+
+Como vimos até agora, o Ser é aquilo que há de mais fundamental em tudo, isso não nos resta dúvidas. Mas, e Deus? Seria Deus superior ao próprio Ser? Não poderia ser o caso, pois é impossível haver algo superior ao Ser, já que tudo se fundamenta nele. Seria Deus inferior ao Ser? Também não, pois Deus é descrito (pelo menos na tradição cristã e ocidental) como o ser de máximo, onipotente e perfeito, não havendo nada acima d’Ele. A única coisa que nos resta afirmar é que o Ser é Deus e vice-versa, ambos se identificam. Talvez o leitor esteja se questionando como o Ser – algo aparentemente abstrato e demasiado simples – poderia ser Deus, e é o que vamos investigar nas próximas teses.
+
+Primeiramente devemos esclarecer o que é Deus: Deus é o ser absolutamente perfeito – aquele que não carece de nada –, onipotente – aquele que pode fazer tudo –, onipresente – aquele que está em todo lugar – onisciente – aquele que sabe de absolutamente tudo –, o Sumo Bem – o bem enquanto tal – e o ser incausado – que não possui nenhuma causa, que existe por si só.
 
 # Tese 5: No Ser, nada falta; o Ser é perfeito. (A absoluta perfeição do Ser)
 
