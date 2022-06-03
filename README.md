@@ -215,4 +215,10 @@ A causa sempre é maior que o efeito, Deus é a causa do universo, e é infinita
 
 # Conclusão
 
+Com toda essa exposição, vimos não somente que Deus existe, mas que é o próprio Ser, que n’Ele tudo se identifica, que não há nada que lhe escape. Perante Ele, nenhum segredo é oculto, nenhuma impossibilidade recai ao Seu poder, tampouco carece de algo, pois é o próprio Poder, é a própria perfeição. Não há nada em que lhe seja distinto, é idêntico as Suas partes, e suas estas são idênticas entre si. Deus não poderia não existir (não ser), pois é a própria Existência.
+
+Agradeço a todos que tiveram paciência para ler até aqui, é um conteúdo muito extenso e, como eu disse no início do texto, não dá para se aprofundar muito em apenas poucas páginas, mas acredito que seja uma introdução satisfatória para qualquer leitor que tenha dúvidas sobre a existência de Deus.
+
 # Notas
+
+*- Crítica da Razão Pura, Quarta Secção “Da impossibilidade de uma prova ontológica de Deus”
