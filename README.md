@@ -69,6 +69,12 @@ Primeiramente devemos esclarecer o que é Deus: Deus é o ser absolutamente perf
 
 # Tese 5: No Ser, nada falta; o Ser é perfeito. (A absoluta perfeição do Ser)
 
+Perfeição define-se como a carência de carências, um avião se diz perfeito quando não falta nada nele para que ele decole, se faltasse uma asa ou uma turbina dele, o avião não seria mais perfeito, pois ele é ausente dessas coisas. Antes de prosseguir nessa tese, também é importante explicar a diferença entre potência ativa e potência passiva: a potência ativa é a possibilidade que algo possui de oferecer uma perfeição (uma qualidade) a outrem. Por exemplo, o fogo tem a potência ativa de esquentar, pois ele pode oferecer o calor a outra coisa. Já a potência passiva é a possibilidade que algo tem de receber uma perfeição, como a madeira que pode receber o calor do fogo. Ou seja, o fogo tem a potência ativa de esquentar, já a madeira tem a potência passiva de aquecer.
+
+De imediato, poderíamos pensar que o Ser é indeterminado, ou seja, carece de qualquer perfeição, sendo ele passível de receber determinações para então formar os seres contingentes (como o fogo e a madeira, que são seres com determinações). Porém, não poderia ser o caso, pois assumir isso seria dizer que existe algo que está fora do Ser, e que esse algo é o que fornece as determinações dos seres contingentes, o que é impossível, pois não pode haver nada fora do escopo do Ser. Por esse motivo, a possibilidade das determinações dos seres contingentes (o calor do fogo, o brilho das estrelas…) não está fora do Ser, e sim contido nele; o Ser não possui a potência passiva de receber determinações e formar os seres contingentes, e sim a potência ativa; o Ser é aquele que determina a possibilidade de qualquer qualidade existir.
+
+**Comentários à tese 5:** Não poderíamos dizer que o Ser contém todas as perfeições possíveis numa relação de predicação (como se o Ser fosse luminoso, quente, pesado e afins), e sim que o Ser possui a perfeição ontológica para gerar tais determinações. Ou seja, o Ser possui a virtualidade – a possibilidade – de todas as perfeições possíveis, e não as predicações de tais perfeições (pois uma predicação só há em um ser extenso, um ser determinado por outrem, e não no Ser enquanto tal, que é totalmente singular).
+
 # Tese 6: O Ser pode originar tudo. (A onipotência do Ser)
 
 # Tese 7: O Ser existe em tudo e em todo lugar. (A onipresença do Ser)
