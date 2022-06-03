@@ -163,6 +163,10 @@ O Ser possui sim ideias a respeito de seus atributos (ele conhece a si mesmo), m
 
 # Tese 11: O Ser é Deus
 
+Deus não é superior ao Ser, nem o inverso, pois Deus é o próprio Ser, pois não há nenhuma diferença entre ambos. Deus é o ser máximo perfeito, o ser que nada está acima, ou seja, Deus só poderia ser o próprio Ser enquanto tal. Mas tínhamos outra problemática: como o Ser poderia ser Deus sendo que Deus possui atributos que, aparentemente, não estão no Ser? Bem, ao longo dessas últimas 5 teses provamos que o Ser possui sim todos os atributos de Deus.
+
+Se é aceito que o Ser existe, e que o Ser é a máxima perfeição, é inevitável aceitar que o Ser é o próprio Deus.
+
 # Tese 12: Deus é, assim como o Ser, absolutamente simples.
 
 # Respostas à argumentos ateístas
